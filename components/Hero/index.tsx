@@ -18,7 +18,7 @@ const Hero = () => {
                 Free and Open-Source Next.js Template for Startup & SaaS
                 </h1>
                 <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
-                NoMercyEver is a group of knuckleheads with a dream... No one quite knows what that dream is, but we're living it!
+                NoMercyEver is a group of knuckleheads with a dream... No one quite knows what that dream is, but here we are\!
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
